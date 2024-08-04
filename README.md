@@ -5,6 +5,7 @@ This script allows you to perform a ping sweep of your network to extract active
 Clone the repository to your Linux system: 
 
 1- git clone https://github.com/mazenmohamed5/IP_sweep.git
+
 2- cd IP_sweep
 
 - Grant execution permission to the script: 
